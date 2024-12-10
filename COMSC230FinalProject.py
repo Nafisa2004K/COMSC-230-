@@ -1,5 +1,5 @@
 """
-Name: Nafisa, Brianna, Fatma
+Name: Nafisa
 Course: COMSC 230 Lab 3
 Prof. Name: Prof. Omar X. Rivera
 Assignment : Final Project
